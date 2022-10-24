@@ -7,7 +7,7 @@
   
 
 # 💫 About Me:
-I'm a Frontend Developer from Indonesia.<br><br>🔭 I’m working as a Software Engineer as a frontend for building web applications.<br>🌱 Exploring new technologies that are relevant to my role.<br>⚡ In my free time, I love listening to music.<br>📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/doffa-arinalhaq) and [![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r5.png)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=adoffa@gmail.com) 
+I'm a Frontend Developer from Indonesia.<br><br>🔭 I’m working as a Software Engineer as a frontend for building web applications.<br>🌱 Exploring new technologies that are relevant to my role.<br>⚡ In my free time, I love listening to music.<br>📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/doffa-arinalhaq) and [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=adoffa@gmail.com) 
 
 
 ## 🌐 Socials:
